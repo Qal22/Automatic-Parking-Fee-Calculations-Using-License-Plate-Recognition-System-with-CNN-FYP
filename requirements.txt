@@ -1,0 +1,9 @@
+opencv-python
+streamlit
+numpy
+torch
+torchvision
+easyocr
+pandas
+requests
+deta
